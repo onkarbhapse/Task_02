@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/pen"
+        app:showAsAction="always"
+        android:title="Pen"
+        android:icon="@drawable/ic_baseline_brush_24">
+    </item>
+
+    <item
+        android:id="@+id/select_point"
+        app:showAsAction="always"
+        android:title="Pen"
+        android:icon="@drawable/ic_baseline_control_point_24">
+    </item>
+
+    <item
+        android:id="@+id/draw_arc"
+        app:showAsAction="always"
+        android:title="Pen"
+        android:icon="@drawable/ic_baseline_architecture_24">
+    </item>
+
+    <item
+        android:id="@+id/draw_circle"
+        app:showAsAction="always"
+        android:title="Pen"
+        android:icon="@drawable/ic_baseline_panorama_fish_eye_24">
+    </item>
+
+
+    <item
+        android:id="@+id/clear"
+        app:showAsAction="always"
+        android:title="Pen"
+        android:icon="@drawable/clear">
+    </item>
+
+</menu>
